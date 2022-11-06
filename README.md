@@ -11,7 +11,7 @@
 - [Data Analyst](#data-analyst)
   - [Kesimpulan](#kesimpulan)
   - [Saran](#saran)
-- [Others Data Visualization Report](#others-data-visualization-report)
+- [Others Project](#others-project)
 
 ### **Problem Statement**
 Tim Marketing disebuah mall ingin melakukan pemasaran kepada konsumen, dalam melakukan pemasaran ini tim marketing memerlukan sebuah analisa untuk mengetahui konsumen mana yang memiliki pendapatan yang tinggi dan mau mengeluarkan uang yang tinggi juga saat berkunjung ke mall. Jika tim marketing mengelompokkan 1 persatu konsumen berdasarkan usia nya, gender nya, pendapatan perbulan dari masing-masing usia serta skor berdasarkan tingkat belanja maka ini membutuhkan waktu yang lama..
