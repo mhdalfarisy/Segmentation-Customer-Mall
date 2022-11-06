@@ -1,6 +1,6 @@
 ## PROJECT : Segmentation Customer Mall
 
-![a1](https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/Aset/Reasons-Attrition1_large%20(1).jpg)
+![a1](https://github.com/mhdalfarisy/Segmentation-Customer-Mall/blob/main/2.-Customer-Segmentation.jpg)
 
 ## Table of Contents
 
@@ -52,10 +52,6 @@ Tim Data Scienct akan membantu tim marketing untuk memecahkan masalah ini dengan
   - Jika tim marketing ingin membangun brading awarness maka dapat difokuskan pada `Kelompok 1, kelompok 2 dan kelompok 3` karena kelompok ini akan berbelanja / ke mall jika memang perlu saja atau menunggu jadwal belanja bulanan.
   - Jika tim marketing ingin meningkatkan penjualan dengan memberikan promo / diskon maka pemasaran dapat ditargetkan pada `Kelompok 4 dan kelompok 5' hal ini dikarenakan konsumen ini memiliki spending score yang tinggi, hal ini dapat menjadi peluang untuk menargetkan mereka dalam penjualan dengan menggunakan strategi memberikan potongan harga / diskon.
   
-### **Visualization Data Employee Analysis Attrition Report**
-<br>
-<code><a href="https://public.tableau.com/app/profile/muhammad.al.farisy6147/viz/ProjectHumanResourceAttritionAnalysisDashboard/Dashboard1?publish=yes" target="_blank"><img height="3000" " src="https://github.com/mhdalfarisy/Employee-Analysis-Attrition-Report/blob/main/Aset/Dashboard%201%20(2).png"></a></code>
-
 <br>
 
 # **OTHERS PROJECT :**
