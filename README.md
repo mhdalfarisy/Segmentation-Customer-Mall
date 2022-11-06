@@ -8,7 +8,6 @@
 - [Objectives](#objectives)
 - [Analytical Approach](#analytical-approach)
 - [Definisi Kolom](#definisi-kolom)
-- [Columns Satisfaction](#columns-satisfaction)
 - [Data Analyst](#data-analyst)
   - [Kesimpulan](#kesimpulan)
   - [Saran](#saran)
