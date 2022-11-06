@@ -52,7 +52,7 @@ Tim Data Scienct akan membantu tim marketing untuk memecahkan masalah ini dengan
   
 <br>
 
-# **OTHERS PROJECT :**
+# **OTHERS PROJECT**
 
 <br>
 <table>
