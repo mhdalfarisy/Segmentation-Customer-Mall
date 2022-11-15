@@ -52,6 +52,8 @@ Tim Data Scienct akan membantu tim marketing untuk memecahkan masalah ini dengan
   
 <br>
 
+# Others Project
+
 **My Project :** [Data Analyst](#data-analyst) | [Machine Learning](#machine-learning) | [Data Visualization](#data-visualization)
 
 **Tech stacks currently using** <br>
