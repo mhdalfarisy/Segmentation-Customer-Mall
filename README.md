@@ -8,7 +8,7 @@
 - [Objectives](#objectives)
 - [Analytical Approach](#analytical-approach)
 - [Definisi Kolom](#definisi-kolom)
-- [Data Analyst](#data-analyst)
+- [Data Analyst dan Clustering](#data-analyst-dan-clustering) 
   - [Kesimpulan](#kesimpulan)
   - [Saran](#saran)
 - [Others Project](#others-project)
@@ -33,7 +33,7 @@ Tim Data Scienct akan membantu tim marketing untuk memecahkan masalah ini dengan
 |Annual Income (k$)| Pendapatan perbulan konsumen dalam ribuan dollar|
 |Spending Score (1-100)| Skor konsumen menggunakan uang untuk belanja di mall|
 
-## DATA ANALYST
+### Data Analyst dan Clustering
 
 ### **Kesimpulan**
 
